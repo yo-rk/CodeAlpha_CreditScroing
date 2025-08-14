@@ -55,7 +55,7 @@ This project is part of my **CodeAlpha Machine Learning Internship**, where I de
 
 ## 📷 Visual Outputs
 ### Top 10 Important Features
-![Top 10 Important Features](feature_importance.png)
+![Top 10 Important Features](Feature_importance.png)
 
 ---
 
